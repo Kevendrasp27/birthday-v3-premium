@@ -78,4 +78,4 @@ export const overlayMessage = "Once again, Happy Birthday AG! Just stay soft. St
 // Background Music
 // ==========================
 // Place your .mp3 file inside "public/audio" and update path below
-export const backgroundMusic = "./audio/bg.mp3"
+export const backgroundMusic = "/audio/bg.mp3"
